@@ -4,3 +4,5 @@ The dataset is loaded into a MySQL database, and Python scripts are used to conn
 The project demonstrates database operations, data manipulation,and analysis of ecommerce sales data,
 providing key insights such as sales trends, product performance, and customer behavior.
 
+
+![Dataset Link}(https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv)
